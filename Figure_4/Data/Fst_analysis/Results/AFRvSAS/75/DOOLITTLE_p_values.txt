@@ -1,0 +1,64 @@
+Top_High_Doolittle	Top_Low_Doolittle	p_val	Virus	Significance	log_p_val	organism	Category
+11	74	0.750691663515817	10254		0.124538406977869	Vaccinia virus (strain Western Reserve)	Non-human_viruses_that_infect_humans
+9	93	0.798775875515133	10299		0.0975750600868497	Human herpesvirus 1 (strain 17)	Human_viruses
+1	13	0.750691663515817	10360		0.124538406977869	Human cytomegalovirus (strain AD169)	Human_viruses
+3	33	0.750691663515817	10376		0.124538406977869	Epstein-Barr virus (strain GD1)	Human_viruses
+9	68	0.750691663515817	10377		0.124538406977869	Epstein-Barr virus (strain B95-8)	Human_viruses
+1	8	0.750691663515817	10407		0.124538406977869	Hepatitis B virus	Human_viruses
+0	5	0.750691663515817	10515		0.124538406977869	Human adenovirus C serotype 2	Human_viruses
+19	129	0.750691663515817	10579		0.124538406977869	Human papillomavirus type 8	Human_viruses
+4	24	0.750691663515817	10580		0.124538406977869	Human papillomavirus 11	Human_viruses
+8	65	0.750691663515817	10583		0.124538406977869	Human papillomavirus type 1	Human_viruses
+6	64	0.782854441569813	10586		0.106318980087084	Human papillomavirus 33	Human_viruses
+9	69	0.750691663515817	10588		0.124538406977869	Human papillomavirus 39	Human_viruses
+2	30	0.815701519799517	10600		0.0884687285228864	Human papillomavirus type 6b	Human_viruses
+4	30	0.750691663515817	10614		0.124538406977869	Human papillomavirus 3	Human_viruses
+10	63	0.750691663515817	10621		0.124538406977869	Human papillomavirus 9	Human_viruses
+1	12	0.750691663515817	11259		0.124538406977869	Human respiratory syncytial virus A (strain A2)	Human_viruses
+2	5	0.750691663515817	11676		0.124538406977869	Human immunodeficiency virus 1	Human_viruses
+0	6	0.750691663515817	11679		0.124538406977869	Human immunodeficiency virus type 1 group M subtype B (isolate PCV12)	Human_viruses
+29	218	0.750691663515817	11706		0.124538406977869	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2)	Human_viruses
+1	6	0.750691663515817	11714		0.124538406977869	Human immunodeficiency virus type 2 subtype A (isolate BEN)	Human_viruses
+2	5	0.750691663515817	11909		0.124538406977869	Human T-cell leukemia virus 2	Human_viruses
+0	20	0.871822969603285	11927		0.0595716929685463	Human T-cell leukemia virus 1 (isolate Caribbea HS-35 subtype A)	Human_viruses
+2	18	0.750691663515817	1263720		0.124538406977869	Middle East respiratory syndrome-related coronavirus (isolate United Kingdom/H123990006/2012)	Non-human_viruses_that_infect_humans
+0	18	0.862472042676943	1343791		0.0642549738290871	Influenza A virus	Human_viruses
+7	71	0.750691663515817	158611		0.124538406977869	Influenza A virus	Human_viruses
+6	46	0.750691663515817	1891767		0.124538406977869	Simian virus 40	Non-human_viruses_that_do_not_infect_humans
+6	69	0.815701519799517	211044		0.0884687285228864	Influenza A virus (strain A/Puerto Rico/8/1934 H1N1)	Human_viruses
+1	11	0.750691663515817	251307		0.124538406977869	Influenza A virus	Human_viruses
+1	4	0.750691663515817	261268		0.124538406977869	Influenza A virus	Human_viruses
+14	103	0.750691663515817	2697049		0.124538406977869	Severe acute respiratory syndrome coronavirus 2	Non-human_viruses_that_infect_humans
+3	20	0.750691663515817	28285		0.124538406977869	Human adenovirus C serotype 5	Human_viruses
+3	16	0.750691663515817	295027		0.124538406977869	Human cytomegalovirus (strain Merlin)	Human_viruses
+2	24	0.750691663515817	31552		0.124538406977869	Human papillomavirus type 6	Human_viruses
+1	12	0.750691663515817	31684		0.124538406977869	Simian immunodeficiency virus agm.grivet (isolate AGM gr-1)	Non-human_viruses_that_do_not_infect_humans
+4	29	0.750691663515817	31762		0.124538406977869	Hepatitis delta virus genotype I (isolate D380)	Human_viruses
+1	14	0.750691663515817	329599		0.124538406977869	Influenza A virus	Human_viruses
+20	163	0.750691663515817	333760		0.124538406977869	Human papillomavirus type 16	Human_viruses
+17	101	0.750691663515817	333761		0.124538406977869	Human papillomavirus type 18	Human_viruses
+5	27	0.750691663515817	333763		0.124538406977869	Human papillomavirus type 32	Human_viruses
+7	92	0.862472042676943	333923		0.0642549738290871	Human papillomavirus 5	Human_viruses
+0	4	0.750691663515817	337052		0.124538406977869	Bovine papillomavirus type 1	Non-human_viruses_that_do_not_infect_humans
+10	95	0.750691663515817	33708		0.124538406977869	Murid herpesvirus 4	Non-human_viruses_that_do_not_infect_humans
+2	38	0.832348326713365	363744		0.0796948892002347	Influenza A virus	Human_viruses
+0	16	0.862472042676943	37122		0.0642549738290871	Human papillomavirus type 6a	Human_viruses
+1	5	0.750691663515817	37296		0.124538406977869	Human herpesvirus 8	Human_viruses
+1	1	0.750691663515817	37959		0.124538406977869	Human papillomavirus 38	Human_viruses
+2	22	0.750691663515817	380337		0.124538406977869	Influenza A virus (strain A/Equine/Prague/1/1956 H7N7)	Human_viruses
+5	24	0.750691663515817	381517		0.124538406977869	Influenza A virus (strain A/Udorn/307/1972 H3N2)	Human_viruses
+5	64	0.832348326713365	381518		0.0796948892002347	Influenza A virus (strain A/Wilson-Smith/1933 H1N1)	Human_viruses
+0	4	0.750691663515817	382835		0.124538406977869	Influenza A virus	Human_viruses
+1	20	0.815701519799517	385599		0.0884687285228864	Influenza A virus (strain A/Udorn/1972 H3N2)	Human_viruses
+4	17	0.750691663515817	392809		0.124538406977869	Influenza A virus (strain A/Victoria/3/1975 H3N2)	Human_viruses
+2	37	0.832348326713365	402527		0.0796948892002347	Influenza A virus (strain A/Chicken/Scotland/1959 H5N1)	Human_viruses
+0	21	0.870566526226735	442553		0.0601980357250265	Influenza A virus	Human_viruses
+2	16	0.750691663515817	512345		0.124538406977869	Hepatitis E virus genotype 3 (isolate Swine/United States/swUS1)	Non-human_viruses_that_infect_humans
+2	33	0.832348326713365	512346		0.0796948892002347	Hepatitis E virus genotype 1 (isolate Human/India/Hyderabad)	Human_viruses
+2	33	0.815701519799517	644788		0.0884687285228864	Influenza A virus	Human_viruses
+1	3	0.750691663515817	648242		0.124538406977869	Adeno-associated virus 2 (isolate Srivastava/1982)	Human_viruses
+3	29	0.750691663515817	694009		0.124538406977869	Severe acute respiratory syndrome coronavirus	Non-human_viruses_that_infect_humans
+8	96	0.832348326713365	82830		0.0796948892002347	Epstein-Barr virus (strain AG876)	Human_viruses
+5	32	0.750691663515817	868565		0.124538406977869	Human herpesvirus 8 type P (isolate GK18)	Human_viruses
+4	28	0.750691663515817	928302		0.124538406977869	Hepatitis B virus genotype C subtype ayr (isolate Human/Japan/Okamoto/-)	Human_viruses
+1	5	0.750691663515817	997555		0.124538406977869	Influenza A virus	Human_viruses
